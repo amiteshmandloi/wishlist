@@ -1,0 +1,11 @@
+{
+    "YOUR_KEY": "0A40FA90-125D-4290-A55C-E",
+    "OWNER_ID": "1351526830",
+    "TELEGRAM_BOT_TOKEN": "8318208831:AAEEsU5yAFZnVuxL5nMUmnX0sbY7usMsxoU",
+    "CHECK_INTERVAL": 2,
+
+    "PAGE_DELAY": 0.2,
+    "IMPORTANT": "Increase page delay if using more than 2 accounts ",
+
+    "TOTAL_PAGES_TO_FETCH": 10
+}
